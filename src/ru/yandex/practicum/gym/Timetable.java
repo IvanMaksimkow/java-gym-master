@@ -1,6 +1,8 @@
 package ru.yandex.practicum.gym;
 
-import java.util.*;
+import java.util.HashMap;
+import java.util.TreeMap;
+import java.util.List;
 
 public class Timetable {
 
